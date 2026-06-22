@@ -48,7 +48,7 @@
     "@typescript-eslint/parser": "^8.61.1",
     "@vitejs/plugin-vue": "^6.0.7",
     "@vitejs/plugin-vue-jsx": "^5.1.5",
-    "@vue/babel-plugin-jsx": "^2.0.1",
+    "@vue/babel-plugin-jsx": "^3.0.0",
     "@vue/compiler-sfc": "^3.5.38",
     "consola": "^3.4.2",
     "cross-env": "^10.1.0",
